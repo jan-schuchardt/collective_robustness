@@ -6,7 +6,7 @@
 Reference implementation of the certificate proposed in
 
 ["Collective Robustness Certificates: Exploiting Interdependence in Graph Neural Networks"](https://openreview.net/forum?id=ULQdiUTHe3y)  
-Jan Schuchardt, Aleksandar Bojchevski, Johannes Klicpera, and Stephan Günnemann, ICLR 2021.
+Jan Schuchardt, Aleksandar Bojchevski, Johannes Gasteiger, and Stephan Günnemann, ICLR 2021.
 
 ## Usage
 To use the certificate you need to provide the following data:
@@ -27,7 +27,7 @@ Please cite our paper if you use this code in your own work:
 
 ```
 @InProceedings{Schuchardt2021_Collective,
-  author = {Schuchardt, Jan and Klicpera, Johannes and Bojchevski, Aleksandar and G{\"u}nnemann, Stephan},
+  author = {Schuchardt, Jan and Gasteiger, Johannes and Bojchevski, Aleksandar and G{\"u}nnemann, Stephan},
   title     = {Collective Robustness Certificates: Exploiting Interdependence in Graph Neural Networks},
   booktitle = {International Conference on Learning Representations},
   year      = {2021},
